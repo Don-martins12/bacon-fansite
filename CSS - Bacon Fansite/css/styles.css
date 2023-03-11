@@ -1,0 +1,28 @@
+h1 {
+    color: red ;
+    font-size: 200px;
+}
+
+
+/********************CLASS selector*************************/
+
+.paragraphy {
+    color: brown;
+}
+
+
+
+/*******************IDs Selector*****************************/
+#headings {
+    color: blue;
+}
+
+/***************** Give Your Picture Circular shape with Classes**/
+.circular {
+    border-top-left-radius: 30%;
+    border-bottom-right-radius: 30%;
+}
+
+img:hover {
+          background-color: aqua;   
+}
